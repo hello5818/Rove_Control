@@ -64,6 +64,19 @@ Par votre mail et mot de passe enregistrer sur maqiatto ainsi que le nom de vos 
 8) Lancer le programme en allant dans les paramètres de la carte éxécuter le
 9) Lancer l’application et connectez vous au serveur MQTT via l'interface
 10) Amusez-Vous ;)
+11) 
+## Télécharger l'application ##
+Lien pour télécharger Rover Control (fichier d'installation APK) :
+
+Mise à jour du 27/07/2022 | Version 1.0 🔁 : 
+https://drive.google.com/file/d/1TvgW8eyNt3M6kAhzBzmwA7ZEIZIUG08Q/view?usp=sharing
+
+🔒 Sécurité 🔒 : 
+Rover Control est garantie sans virus ✅
+
+Lien de vérification, analyse de l’apk par Virus Total : [ICI](https://www.virustotal.com/gui/file/70c75cdea8f0e4b87c584b277a8fee5a5c65b6fb421d1ffbed943a6c45a12547?nocache=1)
+
+![App Screenshot](https://cdn.discordapp.com/attachments/971852061044006922/1024408457530572950/unknown.png)
 
 ## Capture d'écran application (PREVIEW)  ##
 ![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023333535613997136/Param.PNG)
