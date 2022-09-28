@@ -24,6 +24,7 @@ Ensuite appuyez sur Connect en haut à droite
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023328771656392834/Connect.png)
 
+
 Dans Subscription :
 Entrer “Votre_Adresse_Mail”/”nom_premier_topic”
 
