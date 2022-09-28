@@ -8,10 +8,11 @@ Cette application permet de déplacer un robot via le protocole MQTT
 
 En premier aller sur https://www.maqiatto.com/ et créez vous un compte une fois cela fait
 cliquer sur ajouter un topic 
-#
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023328771262124072/topic.png)
-#
+
 Allez sur http://www.hivemq.com/demos/websocket-client/
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023328770884653066/HiveMQ.png)
 
 Host : maqiatto.com                            
@@ -28,9 +29,11 @@ Ensuite appuyez sur Connect en haut à droite
 Dans Subscription :
 Entrer “Votre_Adresse_Mail”/”nom_premier_topic”
 
+![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023328770154823762/Subscribe.png)
+
 (Exemple : “blabla@gmail.com/topic”)
 et cliquer sur Subscribe
-![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023328770154823762/Subscribe.png)
+
 
 Dans Publish :
 Entrer “Votre_Adresse_Mail”/nom_deuxieme_topic” 
