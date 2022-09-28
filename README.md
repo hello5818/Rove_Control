@@ -44,6 +44,7 @@ et cliquer sur Publish
 1) Brancher la carte au PC sur un port USB
 2) Ouvrir Thonny Python puis aller dans Outil > Interpréteur > Micro python (générique), et sélectionner le bon COM dans Port
 
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023330656584998982/AA.png)
 
 3) Faite “CTRL C” ou redémarrer la carte plusieurs jusqu'à avoir les chevrons ">>>"
