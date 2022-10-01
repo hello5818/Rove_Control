@@ -67,6 +67,8 @@ def receptionData(topic_data): # Fonction qui deplace le robot
         hat_roverc1.SetSpeed(0, 255, 0)
     if str(topic_data) == 'rotation':
         hat_roverc1.SetSpeed(0, 0, 90) 
+        wait(1)
+        hat_roverc1.SetSpeed(0, 0, 0)
      
     if str(topic_data) == 'son':
          speaker.setVolume(50)
