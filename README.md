@@ -34,7 +34,6 @@ Entrer “Votre_Adresse_Mail”/”nom_premier_topic”
 (Exemple : “blabla@gmail.com/topic”)
 et cliquer sur Subscribe
 
-
 Dans Publish :
 Entrer “Votre_Adresse_Mail”/nom_deuxieme_topic” 
 
@@ -42,6 +41,15 @@ Entrer “Votre_Adresse_Mail”/nom_deuxieme_topic”
 Ajouter un message par défaut dans la case Message
 et cliquer sur Publish
 ![App Screenshot](https://cdn.discordapp.com/attachments/1003942960284573746/1023328770528125058/Publsih.png)
+
+APP INVENTOR : Allez sur App Inventor et dans MQTT changez les paramètres suivants :
+- Broker : Maqiatto.com
+- UserName : “Votre_Adresse_Mail”
+- IoTimeout, KeepAlive : 5000
+- PassWord : "MDP serveur Maqiatto" 
+- Port : 1883
+
+![App Screenshot](https://media.discordapp.net/attachments/867022439724482572/1025841051258335403/Confiugration.png?)
 
 ## Branchement / Configuration  ##
 1) Brancher la carte au PC sur un port USB
@@ -58,13 +66,13 @@ et cliquer sur Publish
 - "votre_adresse_mail/nom_topic1"
 Par votre mail et mot de passe enregistrer sur maqiatto ainsi que le nom de vos topic
 
-5) Transférer le programme directement dans la carte en cliquant sur les fichiers de la carte et faisant transférer …(a revoir)
+5) Transférer le programme directement dans la carte en allant dans Afficage > Fichiers (Sur Thonny Python) et ensuite sauvegarder le programme sur la carte dans le répertoire /app du M5 et non sur l'ordinateur 
 6) Placer la carte sur le rover
 7) Allez sur Maqiatto.com et HVMQ suivez les instructions ("Voir les Pré-Requis")
 8) Lancer le programme en allant dans les paramètres de la carte éxécuter le
 9) Lancer l’application et connectez vous au serveur MQTT via l'interface
 10) Amusez-Vous ;)
-11) 
+
 ## Télécharger l'application ##
 Lien pour télécharger Rover Control (fichier d'installation APK) :
 
